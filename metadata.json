@@ -2,6 +2,7 @@
   "name": "Credex - AI Loan Eligibility & BFSI Personal Finance Suite",
   "description": "AI-powered BFSI financial intelligence suite featuring instant Loan Eligibility assessment, Credit Score Analyzer, dynamic EMI Calculator, and real-time AI Financial Advisory with dark glassmorphism clarity.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
